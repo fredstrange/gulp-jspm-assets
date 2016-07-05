@@ -27,7 +27,7 @@ node_modules
 .vscode
 
 # lib build folder
-lib
+#lib
 
 # temp folder
 .tmp
